@@ -47,3 +47,5 @@ class TrucK(Vehicle):
 		self.model = model
 		self.year = year
 		self.sold_on = sold_on
+
+
